@@ -16,6 +16,6 @@ The app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## View App on Heroku
 
-https://corona-llfe-survey.herokuapp.com/
+https://corona-life-survey.herokuapp.com/
 
 Based off of: https://github.com/heroku/node-js-getting-started
