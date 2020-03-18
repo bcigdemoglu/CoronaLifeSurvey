@@ -12,4 +12,6 @@ $ npm install
 $ npm start
 ```
 
+The app should now be running on [localhost:5000](http://localhost:5000/).
+
 Based off of: https://github.com/heroku/node-js-getting-started
