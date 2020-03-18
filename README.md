@@ -1,6 +1,16 @@
 # CoronaLifeSurvey
 Largest Sociological Survey on Public Life During COVID-19 Pandemic
 
+## View Heroku App
+
+https://corona-life-survey.herokuapp.com/
+
+## View Heroku logs
+
+```sh
+heroku logs -a corona-life-survey
+```
+
 ## Running Locally
 
 Make sure you have [Node.js v12](http://nodejs.org/) installed.
@@ -14,8 +24,5 @@ $ npm start
 
 The app should now be running on [localhost:5000](http://localhost:5000/).
 
-## View App on Heroku
-
-https://corona-life-survey.herokuapp.com/
-
+## Credits
 Based off of: https://github.com/heroku/node-js-getting-started
