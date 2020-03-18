@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Largest Sociological Survey on Public Life During COVID-19 Pandemic Node.js app using Express 4",
   "engines": {
-    "node": "13.x"
+    "node": "12.x"
   },
   "main": "index.js",
   "scripts": {
