@@ -3,7 +3,7 @@ Largest Sociological Survey on Public Life During COVID-19 Pandemic
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Make sure you have [Node.js v12](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
 $ git clone https://github.com/bcigdemoglu/CoronaLifeSurvey.git # or clone your own fork
