@@ -20,6 +20,9 @@ $ git clone https://github.com/bcigdemoglu/CoronaLifeSurvey.git # or clone your 
 $ cd CoronaLifeSurvey
 $ npm install
 $ npm start
+
+# For debugging
+$ DEBUG=express:* npm start
 ```
 
 The app should now be running on [localhost:5000](http://localhost:5000/).
